@@ -1,1 +1,1 @@
-This will be a new and improved version of lifecalc ( using reactThis will be a new and improved version of lifecalc) using react
+This will be a new and improved version of lifecalc (https://github.com/VelezAntonio/Lifecalc) using react
